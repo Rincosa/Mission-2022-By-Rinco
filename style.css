@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 30px;
+}
+
+.orange-color {
+  color: #ffad5a;
+}
+
+.blue {
+  color: #13103a;
+}
+
+.white {
+  color: white;
+}
+
+.tomato {
+  color: #ff5959;
+}
+
+.heading-font {
+  font-family: "Spline Sans", sans-serif;
+}
+
+#space {
+  margin-right: 30%;
+  padding-top: 30%;
+}
+
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 80%;
+}
+
+.padding-right {
+  padding-right: 10%;
+}
+.padding-left {
+  padding-left: 10%;
+}
+
+.margin-right {
+  margin-right: 10%;
+}
+
+#center {
+  text-align: center;
+}
+
+.flexible-container {
+  display: flex;
+  margin-bottom: 200px;
+}
+
+.button-style {
+  text-decoration: none;
+  background-color: #ff5959;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 5px;
+}
+
+#develop-area {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position: 50px;
+  background-size: 20%;
+}
+
+#community-area {
+  height: 580px;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: 1150px 250px;
+  background-size: 20%;
+}
+
+#covid-area {
+  background: url(images/pictures/bg-corona.jpg) fixed no-repeat top left;
+}
+#covid-area-item {
+  height: 450px;
+  box-shadow: 10px 10px 40px gray;
+  padding-left: 20px;
+}
+
+.mission-item {
+  width: 30%;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding-left: 20px;
+  border-radius: 20px;
+}
+
+.mission-item img {
+  width: 40%;
+}
+
+#mission-color {
+  background-color: #edf5f6;
+}
+
+#vission-color {
+  background-color: #ffeeee;
+}
+
+#goal-color {
+  background-color: #fff4d6;
+}
+
+#footer {
+  height: 300px;
+  background-color: #0b0d17;
+  text-align: center;
+  padding-top: 1%;
+}
+#footer-heading {
+  font-family: "Moon Dance", cursive;
+}
